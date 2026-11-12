@@ -2,21 +2,22 @@
 
 
 ## Project Proposal Template:
-cvbbbc
+
 ### Project Title or Name of the Application	: Cryptographrity
 ### Section			   	      : Rubidium
 ### Group Members			    : CHUA, SANDIG, SANGA
 ### Date (Proposal Date)  : Nov 11, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
 ### Project Description:
+A single-player game in which the player will be given a message that has been run through a cipher, and they must decipher the message to the original message and figure out the mechanics of said cipher. The cipher is procedurally generated based on selected difficulty, and the player may opt to receive hints to help them decipher the message. The mission of this game is to make the training of problem solving fun through a simple puzzle game. 
 
-- A brief summary of the project description and the need for it.
+Our target users are people of all ages who are interested in cryptography, puzzle/problem solving or just looking for a challenge. 
 
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+[TECHNICAL STUFF]
+The (main) classes are:
+class Cipher: The class that each Cipher is built from. In general, each Cipher is procedurally generated, meaning it has parameters set by the difficulty chosen by the player so that the Cipher is fun yet still challenging. 
 
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
+class Message: The class that each initial(unciphered) message is built from. In general, the Message is a simple phrase that is grammatically correct and logically sound. 
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
