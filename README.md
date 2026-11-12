@@ -3,10 +3,10 @@
 
 ## Project Proposal Template:
 cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Project Title or Name of the Application	: Cryptographrity
+### Section			   	      : Rubidium
+### Group Members			    : CHUA, SANDIG, SANGA
+### Date (Proposal Date)  : Nov 11, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
