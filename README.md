@@ -21,7 +21,7 @@ class Message: The class that each initial(unciphered) message is built from. In
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+!<img width="803" height="188" alt="image" src="https://github.com/user-attachments/assets/66af6b73-3baa-45c5-8604-09d3a7f24ecf" />
 
 ### Goals:
 
