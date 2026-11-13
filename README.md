@@ -25,6 +25,8 @@ class Message: The class that each initial(unciphered) message is built from. In
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1: Develop the messaging mechanism 
-- Objective 2: Develop the cipher mechanism
-- Objective 3: Polish and allow customization
+We want this project to become something fun and engaging because we want enjoyable experiences for everyone.
+
+- Objective 1: Allow difficulty and message customization 
+- Objective 2: Make the game challenging yet fun
+- Objective 3: Let it be accessible to everyone
